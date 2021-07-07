@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+h1{
+    color:orange;
+}
+.text{
+    color: darkred;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}

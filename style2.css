@@ -1,0 +1,33 @@
+.blue-paragraph24{
+    color: beige;
+    background-color:darkgoldenrod;
+    font-size: 25px;
+}
+
+#orang-paragraph24{
+    color: floralwhite;
+    background-color: darkseagreen;
+    font-size: 25px;
+}
+* {
+    color: darkslategrey;
+}
+.border-text {
+    border: 5px double darkkhaki;
+}
+span{
+    font-weight: bold;
+}
+
+.big-font{
+    font-size: large;
+}
+.green-bg{
+    background-color: darkolivegreen;
+}
+.white-text{
+    color: azure;
+}
+.bold-text{
+    font-weight: bold;
+}

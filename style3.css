@@ -1,0 +1,12 @@
+/* select Combination*/
+.class1 {
+    color: deeppink;
+}
+
+.class2 {
+    background-color: lightblue;
+}
+
+.class1.class2 {
+    font-size: 1.5em;
+}
